@@ -4,6 +4,7 @@
 -                         Penetration testing
 -                         Web Developing
 -                         App Development
+-                         Embedded Systems 
 - 🌱 I’m currently learning >JS
 - 💞️ I’m looking to collaborate on .Web dev works
 - 📫 How to reach me ...
